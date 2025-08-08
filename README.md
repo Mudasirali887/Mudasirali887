@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Mudasirali887
-- 👀 I’m interested in computer learning and developing all types websites
-- 🌱 I’m currently learning Css
-- 💞️ I’m looking to collaborate on  computer learning
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Mudasir Ali (@Mudasirali887)
 
-<!---
-Mudasirali887/Mudasirali887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 A passionate Computer Science learner with a strong interest in:
+- Python, Java, and Object-Oriented Programming
+- Frontend & Backend Web Development
+- Artificial Intelligence and Automation
+
+🎓 Currently pursuing my journey in Computer Science, exploring modern technologies and building innovative projects to enhance my skills.
+
+🤝 Open to collaborate on:
+- Learning and teaching computer programming
+- Building websites and apps
+- Contributing to open-source projects
+
+📫 How to reach me:
+- Email: mudasirali887@gmail.com
+- LinkedIn: [linkedin.com/in/mudasirali887](#) *(Add your link here)*
+- GitHub: [github.com/Mudasirali887](https://github.com/Mudasirali887)
+
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love turning complex problems into simple solutions — especially with clean and smart code.
+
+---
+
+> “Code is like poetry — it’s beautiful when it flows perfectly.”  
