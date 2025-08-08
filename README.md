@@ -13,8 +13,7 @@
 - Contributing to open-source projects
 
 📫 How to reach me:
-- Email: mudasirali887@gmail.com
-- LinkedIn: [linkedin.com/in/mudasirali887](#) *(Add your link here)*
+- Email: offficialmudsirali@gmail.com
 - GitHub: [github.com/Mudasirali887](https://github.com/Mudasirali887)
 
 😄 Pronouns: He/Him  
